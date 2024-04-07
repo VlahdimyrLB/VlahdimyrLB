@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Vlahdimyr Bambalan
 - 👀 I’m interested in Programming, Adventures, and Playing Video Game
-- 🌱 I’m currently mastering my React.js and Tailwind CSS skills.
-- 🌱 Looking forward to learning Express.js and MongoDB.
-- 💞️ I’m looking to collaborate on development of web applications and web designs.
+- 🌱 I’m currently mastering my React and Tailwind CSS skills.
+- 🌱 I’m currently learning Express.js and MongoDB.
+  👀 I’m looking forward in learning Next, Remix and Astro.
+- 💞️ I’m looking to collaborate on development of full-stack web applications or static websites.
 - 📫 How to reach me Facebook: Vlahdimyr Bambalan Gmail: bambalanvlahdimyr@gmail.com
 
 <!---
