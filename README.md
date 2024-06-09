@@ -8,7 +8,7 @@
       - Gmail: bambalanvlahdimyr@gmail.com
 
 ## Languages
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,javascript,php,cs)]
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,javascript,php,cs)](https://skillicons.dev)
 
 ## Frameworks and Libraries 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,react,redux,jquery,laravel,bootstrap,tailwind)](https://skillicons.dev)
