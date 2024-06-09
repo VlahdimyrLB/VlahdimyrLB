@@ -17,7 +17,7 @@
 [![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,mongodb)](https://skillicons.dev)
 
 ## Tools
-[![My Skills](https://skillicons.dev/icons?i=azure,vscode,visualstudio,figma,github,git,npm,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=azure,vite,vscode,visualstudio,figma,github,git,npm,postman)](https://skillicons.dev)
 
 <!---
 VlahdimyrLB/VlahdimyrLB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
