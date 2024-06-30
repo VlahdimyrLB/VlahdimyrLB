@@ -1,11 +1,10 @@
 - 👋 Hi, I’m Vlahdimyr Bambalan
 - 👀 I’m interested in Web Development, Adventures and Gachaing.
-- 🌱 I’m mastering my skills in MERN Stack and Tailwind CSS.
-- 👀 I’m currently learning Laravel 11.
+- 👨‍💻 Currently mastering my skill in Laravel, NodeJS/ExpressJS, and ReactJS.
 - 💞️ I’m looking to collaborate on development of full-stack web applications or static websites.
 - 📫 How to reach me 
       - Facebook: [Vlahdimyr Bambalan](https://www.facebook.com/vlahdimyr) 
-      - Gmail: bambalanvlahdimyr@gmail.com
+      - Gmail: v.bambalan.dev@gmail.com
 
 ## Languages
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,javascript,php,cs)](https://skillicons.dev)
