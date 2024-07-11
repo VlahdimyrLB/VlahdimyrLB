@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vlahdimyr Bambalan
 - 👀 I’m interested in Web Development, Adventures and Gachaing.
-- 👨‍💻 Currently mastering my skill in Laravel, NodeJS/ExpressJS, and ReactJS.
+- 👨‍💻 Currently mastering my skills in NodeJS/ExpressJS and ReactJS.
 - 💞️ I’m looking to collaborate on development of full-stack web applications or static websites.
 - 📫 How to reach me 
       - Facebook: [Vlahdimyr Bambalan](https://www.facebook.com/vlahdimyr) 
