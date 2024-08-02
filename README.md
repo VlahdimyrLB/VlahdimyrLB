@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Vlahdimyr Bambalan
 - 👀 I’m interested in Web Development, Adventures and Gachaing.
 - 👨‍💻 Currently mastering my skills in NodeJS/ExpressJS and ReactJS.
+- 💼 Work: C# Desktop & PHP-Laravel || Personal Projects/Sidelines: MERN Stack
 - 💞️ I’m looking to collaborate on development of full-stack web applications or static websites.
 - 📫 How to reach me 
       - Facebook: [Vlahdimyr Bambalan](https://www.facebook.com/vlahdimyr) 
