@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Vlahdimyr Bambalan
 - 👀 I’m interested in Software Development, Adventures and Gachaing.
-- 👨‍💻 Currently mastering my skills in NodeJS-ExpressJS and ReactJS.
-- 💼 Work: C# Desktop & PHP-Laravel || Personal Projects/Sidelines: MERN Stack
+- 👨‍💻 Currently learning and using Laravel and Vue.
+- 💼 Work: Laravel-Vue || Personal Sidelines: MERN Stack
 - 💞️ I’m looking to collaborate on development of full-stack web applications or static websites.
 - 📫 How to reach me 
       - Facebook: [Vlahdimyr Bambalan](https://www.facebook.com/vlahdimyr) 
@@ -11,7 +11,7 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,javascript,php,cs)](https://skillicons.dev)
 
 ## Frameworks and Libraries 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,react,redux,jquery,laravel,bootstrap,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,react,jquery,laravel,bootstrap,tailwind)](https://skillicons.dev)
 
 ## Databases
 [![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,mongodb)](https://skillicons.dev)
