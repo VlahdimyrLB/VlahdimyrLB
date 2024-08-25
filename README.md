@@ -8,13 +8,13 @@
       - Gmail: v.bambalan.dev@gmail.com
 
 ## Languages
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,javascript,php,cs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,php,cs,sass)](https://skillicons.dev)
 
 ## Frameworks and Libraries 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,react,jquery,laravel,bootstrap,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,react,vue,laravel,bootstrap,tailwind,jquery)](https://skillicons.dev)
 
 ## Databases
-[![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,sqlite,postgres)](https://skillicons.dev)
 
 ## Tools
 [![My Skills](https://skillicons.dev/icons?i=azure,vite,vscode,visualstudio,figma,github,git,npm,postman)](https://skillicons.dev)
