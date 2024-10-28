@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Vlahdimyr Bambalan
 - 👀 I’m interested in Software Development, Adventures and Gachaing.
-- 👨‍💻 Currently learning and using Laravel and Vue.
-- 💼 Work: Laravel-Vue || Personal Sidelines: MERN Stack
+- 👨‍💻 Mastering the Laravel/Vue Ecosystem
 - 💞️ I’m looking to collaborate on development of full-stack web applications or static websites.
 - 📫 How to reach me 
       - Facebook: [Vlahdimyr Bambalan](https://www.facebook.com/vlahdimyr) 
