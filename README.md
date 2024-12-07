@@ -10,7 +10,7 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,php,cs)](https://skillicons.dev)
 
 ## Frameworks and Libraries 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,react,next,vue,laravel,bootstrap,tailwind,jquery)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=laravel,vue,nodejs,express,react,next,tailwind,bootstrap,jquery)](https://skillicons.dev)
 
 ## Databases
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,sqlite,postgres)](https://skillicons.dev)
